@@ -2,7 +2,7 @@
 
 # hey, i'm elchin 👋
 
-### CS @ Georgia Tech • ML / systems / quant • builder of useful chaos
+### CS @ Georgia Tech • ML / SWE / quant
 
 <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="170" alt="nyan cat flying" />
 
