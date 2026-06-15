@@ -2,20 +2,10 @@
 
 # Elchin Hasanov
 
-### CS @ Georgia Tech · Machine Learning · Software Engineering · Quant
+### CS + FinTech @ Georgia Tech
 
 [![Website](https://img.shields.io/badge/Website-elchinhasanov.com-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elchinhasanov.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elchin%20Hasanov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elchin-hasanov1)
-
-</div>
-
----
-
-## GitHub Language Breakdown
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elchin-hasanov&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages)
 
 </div>
 
@@ -93,7 +83,7 @@ C++ TCP ingestion server with a hand-written memory engine: slab/arena allocator
 
 ---
 
-### [Conference-Trend-Detector](https://github.com/elchin-hasanov/Conference-Trend-Detector)
+### [Conference Trend Detector](https://github.com/elchin-hasanov/Conference-Trend-Detector)
 
 Research trend dashboard that scrapes ML conferences, clusters papers into topics, and visualizes citation and research momentum.
 
@@ -106,7 +96,7 @@ Research trend dashboard that scrapes ML conferences, clusters papers into topic
 
 ---
 
-### [options-pricing-engine](https://github.com/elchin-hasanov/options-pricing-engine)
+### [Options Pricing Engine](https://github.com/elchin-hasanov/options-pricing-engine)
 
 Real-time C++ option pricing and volatility modeling engine using live option-chain data, Black-Scholes inversion, and volatility surface construction.
 
@@ -119,7 +109,7 @@ Real-time C++ option pricing and volatility modeling engine using live option-ch
 
 ---
 
-### [pathfindr](https://github.com/elchin-hasanov/pathfindr)
+### [pathfindr | AI ATL Hackathon winner](https://github.com/elchin-hasanov/pathfindr)
 
 iOS navigation app for visually impaired users using ARKit, LiDAR depth sensing, and multimodal AI.
 
@@ -132,7 +122,7 @@ iOS navigation app for visually impaired users using ARKit, LiDAR depth sensing,
 
 ---
 
-### [gpt2.0_from_scratch](https://github.com/elchin-hasanov/gpt2.0_from_scratch)
+### [GPT 2.0 from scratch](https://github.com/elchin-hasanov/gpt2.0_from_scratch)
 
 Implementation of GPT-style transformer internals from scratch, including attention, embeddings, training loops, and language modeling.
 
@@ -154,15 +144,3 @@ Experiments around model safety, fine-tuning, red-teaming, and LLM evaluation.
   <img src="https://img.shields.io/badge/Red%20Team-B22222?style=flat-square" />
   <img src="https://img.shields.io/badge/Evals-333333?style=flat-square" />
 </p>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elchin-hasanov&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elchin-hasanov&theme=tokyonight&hide_border=true)
-
-</div>
